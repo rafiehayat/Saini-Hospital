@@ -1,0 +1,189 @@
+[
+    {
+      "type": "service",
+      "title": "Urology Service.",
+      "description": "The Department of Urology at Our Hospital offers advanced urological care at par with international standards. We offer full spectrum of diagnostics and treatment for urology cancers, prostate diseases, laparoscopic urology, reconstructive urology surgery, stone disease, erectile dysfunction, paediatric urology, paediatric renal transplant and andrology.",
+      "overview": {
+        "intro": "Urology is a part of health care that deals with diseases of the male and female urinary tract (kidneys, ureters, bladder and urethra). It also deals with the male organs that are able to make babies (penis, testes, scrotum, prostate, etc.). Since health problems in these body parts can happen to everyone, urologic health is important.",
+        "specialties": {
+          "list": [
+            "Pediatric Urology (children’s Urology)",
+            "Urologic Oncology (urologic cancers)",
+            "Renal (kidney) Transplant",
+            "Male Infertility",
+            "Calculi (urinary tract stones)",
+            "Female Urology",
+            "Neurourology (nervous system control of genitourinary organs)"
+          ],
+          "description": "The scope of urology is big and the American Urological Association has named seven subspecialty parts."
+        }
+      },
+      "process": {
+        "description": "The urologist will normally have notes from the referring doctor, but they will ask questions about the patient’s medical history and carry out a physical examination. They may also order some tests.",
+        "tests": [
+          "Imaging tests, such as CT scans, MRI scans, or ultrasound can help the doctor locate the problem.",
+          "A cystoscope is a long, thin probe with a camera on that can be used to see inside the urinary tract, and, sometimes, to take a sample of tissue for testing.",
+          "A urine test can check for bacteria or other signs of disease.",
+          "A biopsy can check for cancer and other disorders.",
+          "Urodynamic testing can check how fast the urine leaves the body, how much urine remains in the bladder after urinating, and how much pressure there is in the bladder."
+        ]
+      },
+      "image": "img/urosurgery_lg.jpg"
+    },
+    
+    {
+      "type": "laparoscopic_surgery",
+      "title": "Laparoscopic Surgery.",
+      "description": "Laparoscopic or “minimally invasive” surgery is a specialized technique for performing surgery. In the past, this technique was commonly used for gynecologic surgery and for gallbladder surgery. Over the last 10 years, the use of this technique has expanded into intestinal surgery.",
+      "details": [
+        "In traditional “open” surgery the surgeon uses a single incision to enter into the abdomen. Laparoscopic surgery uses several 0.5-1cm incisions.",
+        "Advantages Compared to traditional open surgery, patients often experience less pain, a shorter recovery, and less scarring with laparoscopic surgery.",
+        "Laparoscopic surgery is as safe as traditional open surgery.",
+        "Laparoscopic surgery is used for several types of operations, including gynecologic, gallbladder, esophageal, colon, stomach, spleen, and intestinal."
+      ],
+      "image": "img/laparoscopy.jpg"
+    },
+    {
+      "type": "tt_vaccine",
+      "title": "TT Vaccine",
+      "image": "img/tt-vaccin.jpg",
+      "description": "Tetanus, also known as lockjaw, is a potentially life-threatening bacterial infection that attacks your nervous system. Caused by the Clostridium tetani bacterium, it triggers painful and prolonged muscle contractions, especially in the jaw and neck muscles, making it difficult to swallow, breathe, and move. While vaccination has made tetanus rare in many parts of the world, it remains a threat in areas with low vaccination rates.",
+      "sections": [
+        {
+          "title": "What Is Tetanus?",
+          "content": "Tetanus, also known as lockjaw, is a potentially life-threatening bacterial infection that attacks your nervous system. Caused by the Clostridium tetani bacterium, it triggers painful and prolonged muscle contractions, especially in the jaw and neck muscles, making it difficult to swallow, breathe, and move. While vaccination has made tetanus rare in many parts of the world, it remains a threat in areas with low vaccination rates. Don’t let a preventable illness like tetanus impact your life. Ensure you and your loved ones are up-to-date on tetanus vaccinations for complete protection."
+        },
+        {
+          "title": "What Happens In The Tetanus Disease?",
+          "content": "This bacterium releases a potent toxin that wreaks havoc on your nervous system, leading to a cascade of agonizing symptoms. Imagine your jaw muscles locking so tight you can’t swallow or even open your mouth. The rigidity then spreads, contorting your body in painful spasms, affecting even your breathing. In severe cases, it can even lead to death."
+        },
+        {
+          "title": "What Are Causes Of Tetanus?",
+          "content": "Clostridium tetani, spores of the bacteria that cause tetanus, can be found in the soil, dust and animal feces. Upon entering a deep flesh wound, the tetanus spores grow into bacteria. This may produce a potent toxin known as tetanospasmin and can impair the nerves that control your muscles. Tetanospasmin can also cause muscle stiffness and spasms. Tetanus cases are usually found in people who have never taken the tetanus vaccination or adults who have not kept up with their tetanus vaccine shots. Tetanus is not contagious."
+        },
+        {
+          "title": "Risks In Contracting Tetanus",
+          "content": "The risk for contracting tetanus increases if there are:\nPuncture wounds, such as stepping on a nail, allow bacteria direct access to deeper tissues, increasing tetanus risk.\nGunshot wounds provide a deep, oxygen-poor environment conducive to the growth of tetanus-causing bacteria.\nCompound fractures expose bone and deep tissue to the environment, creating an entry point for tetanus bacteria.\nBurns damage the skin’s protective barrier, making it easier for tetanus bacteria to enter and infect the body.\nSurgical wounds create openings in the skin, potentially introducing tetanus bacteria during or after the procedure.\nInjection drug use involves breaking the skin barrier, risking tetanus infection through contaminated needles or substances.\nAnimal or insect bites can transmit tetanus bacteria, especially if the wound is deep or not properly cleaned.\nInfected foot ulcers, often in individuals with diabetes, can become gateways for tetanus bacteria due to poor circulation.\nDental infections may serve as reservoirs for tetanus bacteria, spreading to other parts of the body through the bloodstream.\nInfected umbilical stumps, particularly in newborns in environments with poor hygiene, can be entry points for tetanus bacteria."
+        },
+        {
+          "title": "Tetanus Symptoms",
+          "content": "You may start seeing these signs and symptoms of tetanus after the tetanus bacteria enters your body through a wound. These signs can appear anywhere between a few days to several weeks. The average incubation period for tetanus is 7 to 10 days. Some of the common symptoms of Tetanus are:\nSpasms or stiffness in the jaw, often called “lockjaw,” make opening the mouth or swallowing very difficult and painful.\nNeck muscle stiffness can lead to difficulty turning the head, swallowing, and may cause general discomfort or pain.\nDifficulty swallowing, resulting from muscle stiffness in the throat and neck, can lead to drooling and nutritional problems.\nStiffness of the abdominal muscles can cause severe abdominal pain, making it hard to move, bend, or breathe deeply.\nPainful body spasms, triggered by minor stimuli like light or noise, can cause intense pain and muscle contractions lasting minutes.\nFever in tetanus cases, though not always high, indicates the body’s response to infection, contributing to overall discomfort.\nSweating excessively, even without physical exertion, can occur as the body’s temperature regulation is affected by tetanus toxin.\nElevated blood pressure may result from the body’s stress response to tetanus toxin, affecting cardiovascular health.\nRapid heart rate accompanies tetanus as the nervous system reacts to the toxin, potentially leading to cardiac stress."
+        },
+        {
+          "title": "Tetanus Treatment",
+          "content": "There is no cure for tetanus. The only way to prevent the tetanus disease is to take the tetanus vaccination and to keep up with the tetanus shots according to the tetanus vaccine schedule. After receiving an injury, as part of the tetanus treatment, it is recommended to take a tetanus shot if the patient does not remember when was the last time they took a tetanus injection."
+        }
+      ]
+    },
+    {
+      "type": "typhoid_vaccine",
+      "title": "Typhoid Vaccine",
+      "image": "img/typhoid.jpg",
+      "description": "Typhoid is a highly contagious infection caused by eating food or water contaminated by the bacteria Salmonella enterica serovar Typhi. Typhoid is common in parts of the world that have poor sanitation and limited access to clean water.",
+      "sections": [
+        {
+          "title": "What is Typhoid?",
+          "content": "Typhoid is a highly contagious infection caused by eating food or water contaminated by the bacteria Salmonella enterica serovar Typhi. Typhoid is common in parts of the world that have poor sanitation and limited access to clean water."
+        },
+        {
+          "title": "Who is at risk from Typhoid?",
+          "content": "Worldwide, children are at most at risk of developing typhoid fever because their body’s natural defences against infection and illness is still developing. However, children experience milder symptoms compared with adults."
+        },
+        {
+          "title": "What are the symptoms?",
+          "content": "Symptoms of typhoid fever usually develop 1 or 2 weeks after a person becomes infected. The main symptoms are:\npersistent high temperature that gradually increases each day\nheadache\nGeneral aches and pains\nExtreme tiredness (fatigue)\nCough\nConstipation"
+        }
+      ]
+    },
+    {
+      "type": "dpt_hib_polio_vaccine",
+      "title": "DPT, HIB, POLIO Vaccine",
+      "image": "img/dtp.jpg",
+      "description": "When a new member is welcomed into the family, it is a special moment for every parent. But the care of this junior one is essential to its health purpose. Staying updated about the Child’s Vaccination Routine is necessary according to age. Here, we talk about DTP, Hib and Polio Vaccine.",
+      "vaccines": [
+        {
+          "name": "DTP Vaccine",
+          "description": "Healthcare professionals administer DTP (Diptheria, tetanus, pertussis) to children to prevent these three deadly diseases, Diptheria is a thick covering at the back of the throat. It causes breathing problems, paralysis and heart problems and even death in severe cases, Tetanus is a disease wherein the muscles of the body contract all over the body. It can lead to lockjaw and as a result of which the victim cannot swallow, Pertussis causes severe coughing spells that last for weeks. It can lead to pneumonia, brain damage, convulsions and even death, The first booster is usually given to children at the age of 6 weeks, 0.5ml of this vaccine is administered on the anterolateral mid-thigh left, Moreover, it is an intramuscular vaccine, In some cases, children who react adversely to the DTP shot should not get the second dose, Consult with a healthcare professional to know when to avoid the next dosage of DTP."
+        },
+        {
+          "name": "Haemophilus Influenza B Virus (HIB)",
+          "description": "It prevents brain and spine damage if causing meningitis, Hib bacteria can cause mild issues such as ear infections, bronchitis, or severe blood illnesses, Hib can also cause pneumonia, severe swelling of the throat, infections of the joints, bones, covering of the heart, and even death in extreme cases, There is only 1 dosage for this vaccine in the vaccination programme for babies in India"
+        },
+        {
+          "name": "Polio",
+          "description": "OPV is a compulsory vaccination for babies in India, Polio is a disease that causes paralysis in children, Poliovirus lives in the throat and intestinal tract of a person and spreads by contact with faeces, Some children who get polio do not feel any symptoms, and others get symptoms similar to the common cold. In comparison, others may feel muscle pain and can be paralysed within a week, There is no treatment for polio, and some children may die from it, There are two types of polio vaccine: OPV (live, weakened vaccine administered orally) and IPV (killed polio vaccine administered by injection)"
+        }
+      ]
+    },
+    {
+      "type": "mmr_vaccine",
+      "title": "MMR vaccine",
+      "image": "img/mmr.jpg",
+      "description": "MMR vaccine can prevent measles, mumps, and rubella. Before vaccines, these diseases were very common in the United States, especially among children.",
+      "details": [
+        {
+          "disease": "MEASLES",
+          "abbreviation": "M",
+          "symptoms": "Measles can cause fever, cough, runny nose, and red, watery eyes, commonly followed by a rash that covers the whole body. It can lead to seizures (often associated with fever), ear infections, diarrhea, and pneumonia. Rarely, measles can cause brain damage or death."
+        },
+        {
+          "disease": "MUMPS",
+          "abbreviation": "M",
+          "symptoms": "Mumps can cause fever, headache, muscle aches, tiredness, loss of appetite, and swollen and tender salivary glands under the ears. It can lead to deafness, swelling of the brain and/or spinal cord covering, painful swelling of the testicles or ovaries, and, very rarely, death."
+        },
+        {
+          "disease": "RUBELLA",
+          "abbreviation": "R",
+          "symptoms": "Rubella can cause fever, sore throat, rash, headache, and eye irritation. It can cause arthritis in up to half of teenage and adult women. If a woman gets rubella while she is pregnant, she could have a miscarriage or her baby could be born with serious birth defects."
+        }
+      ],
+      "protection": "Most people who are vaccinated with MMR will be protected for life. Vaccines and high rates of vaccination have made these diseases much less common in the United States."
+    },
+    {
+      "type": "pneumococcal_vaccine",
+      "title": "PNEUMOCOCCAL Vaccine",
+      "image": "img/pcv13.jpg",
+      "description": "Pneumococcal disease is any type of infection caused by Streptococcus pneumoniae bacteria. It's a common cause of ear infections, pneumonia and bloodstream infections. It gives immunity to the 13 different strains of pneumococcal bacteria that cause the most serious infections in children.",
+      "schedule": [
+        "2 months old",
+        "4 months old",
+        "6 months old",
+        "Between 12 and 15 months old"
+      ],
+      "additional_info": "If your child misses a shot or starts the PCV13 series later, he should still get the vaccine.",
+      "conditions_to_inform_doctor": [
+        "If your baby has been sick, or has experienced high fever",
+        "Previous allergic reactions to a medicine or vaccine",
+        "If your baby has haemophilia, or bleeds more than normal",
+        "If it has been pointed out that your child has a weak immune system"
+      ]
+    },
+    {
+      "type": "hepatitis_a_vaccine",
+      "title": "HEPATITIS A",
+      "image": "img/hep.jpg",
+      "description": "Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. When symptoms are noticeable, the severity of the disease can range from mild lasting a few weeks to severe lasting several months. Babies infected with the hepatitis A virus can pass it on to caregivers who come in contact with their feces.",
+      "symptoms": {
+        "header": "What are the symptoms of hepatitis A?",
+        "list": [
+          "Flu-like symptoms (fever, fatigue, body aches)",
+          "Abdominal pain (especially in the right upper quadrant)",
+          "Light-colored stool",
+          "Dark urine",
+          "Loss of appetite",
+          "Unexplained weight loss",
+          "Jaundice (yellowing of skin or eyes)"
+        ],
+        "onset": "Symptoms usually appear 14 to 28 days after you contract the virus."
+      },
+      "vaccine_schedule": {
+        "header": "When should your baby get HEPATITIS A Vaccine?",
+        "dosage_info": "Babies need 2 doses of hepatitis A vaccine to give them long-lasting protection against infection. Your baby should receive:",
+        "doses": [
+          "The first dose at 12 months of age.",
+          "The second dose 6 months after the first."
+        ]
+      }
+    }
+  ]
+  
